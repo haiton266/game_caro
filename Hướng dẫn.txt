@@ -1,0 +1,4 @@
+- Chạy Ctrl F9 như mọi file
+- Khi xuất hiện màn hình Graph thì phải click vào màn hình Ctrl F9 của Pascal để điều khiển như hướng dẫn
+- Chỉ cần nhập tọa độ ban đầu, các bước tiếp theo chỉ cần "lên, xuống, trái, phải" để di chuyển vị trí và nhấn Enter để đánh ô đó
+- 2 người chơi đến lúc máy đếm được 5 ô thì trò chơi sẽ kết thúc
